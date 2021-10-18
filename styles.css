@@ -26,6 +26,7 @@ nav {
     text-align: right;
     position: relative;
     top : -20px;
+    margin-top: 10px;
 }
 
 #dropdown-menu {
